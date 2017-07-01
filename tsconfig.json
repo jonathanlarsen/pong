@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "outFile": "pong.js",
+    "baseUrl": "src",
+    "removeComments": true
+  }
+}
